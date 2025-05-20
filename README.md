@@ -49,7 +49,7 @@ Eclypse is a premium luxury fashion brand website built with Next.js and Tailwin
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Pallav46/Eclypse.git
+   https://github.com/Kareenakri/eclypse.git
    cd Eclypse
    ```
 2. **Install dependencies:**
